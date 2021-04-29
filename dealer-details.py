@@ -5,7 +5,7 @@ import re
 import csv
 
 #request main site url
-url = input("Enter the url in format \"https://autoportal.com/mahindra/car-dealers/cityname/\" \n")
+url = input("Enter the url in format \"https://autoportal.com/companyname/car-dealers/cityname/\" \n")
 
 def req():
     
@@ -98,4 +98,9 @@ def get_links(url_list):
             continue
 
 
-req()
+
+def main():
+    req()
+
+if __name__ == "__main__":
+    main()
