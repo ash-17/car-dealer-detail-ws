@@ -1,3 +1,7 @@
+This was created to fetch car dealer details from https://autoportal.com/ and write it into .csv file. This was related to project I was working on.
+
+
+
 Steps to run the program:
 
 1. run "pip install -r requirements.txt
