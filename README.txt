@@ -1,4 +1,5 @@
-This was created to fetch car dealer details from https://autoportal.com/ and write it into .csv file. This was related to project I was working on.
+This web scraper code was created to fetch car dealer details from https://autoportal.com/ and write it into .csv file. This was related to project I was working on.
+Using python requests module and beautifulsoup.
 
 
 
